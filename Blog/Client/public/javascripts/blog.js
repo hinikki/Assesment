@@ -307,14 +307,7 @@ var AddPost=React.createClass({
                 <input type="text" className="form-control" id="addAuthor" name="addAuthor" required />
 
       				</div>
-              // <div className="form-group">
-
-              //   <label for="addPoster">
-              //     Upload Poster
-              //   </label>
-              //   <input type="file" className="form-control" id="addPoster" name="addPoster" required />
-              //
-      				// </div>
+            
       			</form>
             <center>
             <button className="btn btn-primary" id="addPostButton">
